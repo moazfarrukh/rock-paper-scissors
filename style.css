@@ -38,13 +38,15 @@ header >h1{
 #userinfo{
     position: absolute;
     top: 45px;
-    left: -30px;
+    right: -40px;
+   
     
 }
 #compinfo{
     position: absolute;
     top: 45px;
-    right: -40px;
+    left: -30px;
+    
 }
 .result{
     color: white;
