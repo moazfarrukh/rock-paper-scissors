@@ -31,7 +31,7 @@ header >h1{
     position: relative;
 }
 .badge{
-    font-size: 20px;
+    font-size: 15px;
     background-color: red;
     padding: 3px 10px;
 }
